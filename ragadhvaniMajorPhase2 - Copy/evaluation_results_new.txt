@@ -1,0 +1,1443 @@
+----- Model Configuration -----
+Number of neurons in LSTM layer: 75
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 17.1476
+Mean Absolute Error: 3.0974
+Mean Squared Error: 17.1476
+R-squared: -0.9629
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.5100
+Mean Absolute Error: 3.1363
+Mean Squared Error: 14.5100
+R-squared: -8.6332
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2299
+Mean Absolute Error: 3.0902
+Mean Squared Error: 14.2299
+R-squared: -7.1734
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.1295
+Mean Absolute Error: 3.1031
+Mean Squared Error: 14.1295
+R-squared: -11.9525
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.2370
+Mean Absolute Error: 3.0954
+Mean Squared Error: 14.2370
+R-squared: -9.0085
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.4896
+Mean Absolute Error: 3.1144
+Mean Squared Error: 14.4896
+R-squared: -8.2525
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.4108
+Mean Absolute Error: 3.0971
+Mean Squared Error: 14.4108
+R-squared: -9.3206
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.7040
+Mean Absolute Error: 3.1082
+Mean Squared Error: 14.7040
+R-squared: -7.0677
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.5159
+Mean Absolute Error: 3.1543
+Mean Squared Error: 14.5159
+R-squared: -10.1046
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.4088
+Mean Absolute Error: 3.1383
+Mean Squared Error: 14.4088
+R-squared: -14.5800
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.5442
+Mean Absolute Error: 3.1100
+Mean Squared Error: 14.5442
+R-squared: -6.0496
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.5446
+Mean Absolute Error: 3.1420
+Mean Squared Error: 14.5446
+R-squared: -8.0159
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.0292
+Mean Absolute Error: 3.1452
+Mean Squared Error: 15.0292
+R-squared: -4.9794
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.5205
+Mean Absolute Error: 3.1194
+Mean Squared Error: 14.5205
+R-squared: -6.0757
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.4872
+Mean Absolute Error: 3.0835
+Mean Squared Error: 14.4872
+R-squared: -6.0642
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.5304
+Mean Absolute Error: 3.0789
+Mean Squared Error: 14.5304
+R-squared: -6.5852
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.9051
+Mean Absolute Error: 3.1230
+Mean Squared Error: 14.9051
+R-squared: -6.5742
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.7108
+Mean Absolute Error: 3.0834
+Mean Squared Error: 14.7108
+R-squared: -4.4288
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.6502
+Mean Absolute Error: 3.1541
+Mean Squared Error: 15.6502
+R-squared: -3.5165
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.5602
+Mean Absolute Error: 3.1527
+Mean Squared Error: 15.5602
+R-squared: -5.2146
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.6531
+Mean Absolute Error: 3.1012
+Mean Squared Error: 14.6531
+R-squared: -5.2660
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.8323
+Mean Absolute Error: 3.1216
+Mean Squared Error: 14.8323
+R-squared: -4.9649
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.3872
+Mean Absolute Error: 3.1404
+Mean Squared Error: 15.3872
+R-squared: -3.6883
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.9642
+Mean Absolute Error: 3.1352
+Mean Squared Error: 14.9642
+R-squared: -4.5554
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 17.3658
+Mean Absolute Error: 3.1754
+Mean Squared Error: 17.3658
+R-squared: -3.0129
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.6536
+Mean Absolute Error: 3.1010
+Mean Squared Error: 14.6536
+R-squared: -4.7376
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.7900
+Mean Absolute Error: 3.0835
+Mean Squared Error: 14.7900
+R-squared: -5.6738
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.6507
+Mean Absolute Error: 3.1026
+Mean Squared Error: 14.6507
+R-squared: -7.8552
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.6915
+Mean Absolute Error: 3.1450
+Mean Squared Error: 15.6915
+R-squared: -3.2822
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.0198
+Mean Absolute Error: 3.0889
+Mean Squared Error: 15.0198
+R-squared: -3.3651
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.0835
+Mean Absolute Error: 3.1304
+Mean Squared Error: 16.0835
+R-squared: -2.2489
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.3711
+Mean Absolute Error: 3.0426
+Mean Squared Error: 15.3711
+R-squared: -2.2358
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.4854
+Mean Absolute Error: 3.1171
+Mean Squared Error: 15.4854
+R-squared: -2.9252
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.7371
+Mean Absolute Error: 3.0497
+Mean Squared Error: 14.7371
+R-squared: -3.6325
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.0317
+Mean Absolute Error: 3.1458
+Mean Squared Error: 16.0317
+R-squared: -2.3164
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.2683
+Mean Absolute Error: 3.1517
+Mean Squared Error: 16.2683
+R-squared: -2.4426
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.6459
+Mean Absolute Error: 3.1420
+Mean Squared Error: 16.6459
+R-squared: -1.7814
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.7132
+Mean Absolute Error: 3.1701
+Mean Squared Error: 16.7132
+R-squared: -1.8999
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 13.9542
+Mean Absolute Error: 3.0739
+Mean Squared Error: 13.9542
+R-squared: -11.0640
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.1358
+Mean Absolute Error: 3.0831
+Mean Squared Error: 14.1358
+R-squared: -8.7645
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.5538
+Mean Absolute Error: 3.1006
+Mean Squared Error: 14.5538
+R-squared: -5.4380
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.4317
+Mean Absolute Error: 3.0834
+Mean Squared Error: 14.4317
+R-squared: -6.1941
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.4568
+Mean Absolute Error: 3.0895
+Mean Squared Error: 14.4568
+R-squared: -5.5793
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.3315
+Mean Absolute Error: 3.0706
+Mean Squared Error: 14.3315
+R-squared: -5.0050
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.5646
+Mean Absolute Error: 3.1602
+Mean Squared Error: 14.5646
+R-squared: -8.3429
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2600
+Mean Absolute Error: 3.1214
+Mean Squared Error: 14.2600
+R-squared: -10.1185
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.4333
+Mean Absolute Error: 3.1189
+Mean Squared Error: 14.4333
+R-squared: -7.2324
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.4380
+Mean Absolute Error: 3.1266
+Mean Squared Error: 14.4380
+R-squared: -7.7107
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.6819
+Mean Absolute Error: 3.1300
+Mean Squared Error: 14.6819
+R-squared: -6.1274
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.0879
+Mean Absolute Error: 3.1496
+Mean Squared Error: 15.0879
+R-squared: -5.3752
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2586
+Mean Absolute Error: 3.0664
+Mean Squared Error: 14.2586
+R-squared: -7.1125
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2672
+Mean Absolute Error: 3.0620
+Mean Squared Error: 14.2672
+R-squared: -4.7816
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.9032
+Mean Absolute Error: 3.0520
+Mean Squared Error: 14.9032
+R-squared: -3.0562
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.7271
+Mean Absolute Error: 3.0672
+Mean Squared Error: 14.7271
+R-squared: -3.8564
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.7729
+Mean Absolute Error: 3.1250
+Mean Squared Error: 15.7729
+R-squared: -2.8969
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.8341
+Mean Absolute Error: 3.0775
+Mean Squared Error: 14.8341
+R-squared: -3.0132
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.0860
+Mean Absolute Error: 3.1196
+Mean Squared Error: 15.0860
+R-squared: -4.4607
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.3968
+Mean Absolute Error: 3.0849
+Mean Squared Error: 14.3968
+R-squared: -5.8136
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.4575
+Mean Absolute Error: 3.0887
+Mean Squared Error: 15.4575
+R-squared: -2.9318
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.8193
+Mean Absolute Error: 3.1035
+Mean Squared Error: 14.8193
+R-squared: -4.5685
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.2267
+Mean Absolute Error: 3.1607
+Mean Squared Error: 16.2267
+R-squared: -2.5472
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.3056
+Mean Absolute Error: 3.1231
+Mean Squared Error: 15.3056
+R-squared: -3.2784
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.6453
+Mean Absolute Error: 3.0411
+Mean Squared Error: 14.6453
+R-squared: -3.1285
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.3794
+Mean Absolute Error: 3.0698
+Mean Squared Error: 14.3794
+R-squared: -8.3027
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.7870
+Mean Absolute Error: 3.1681
+Mean Squared Error: 16.7870
+R-squared: -1.8820
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.1713
+Mean Absolute Error: 3.1158
+Mean Squared Error: 16.1713
+R-squared: -2.2834
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.8114
+Mean Absolute Error: 3.1427
+Mean Squared Error: 16.8114
+R-squared: -1.5460
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.0363
+Mean Absolute Error: 3.1035
+Mean Squared Error: 16.0363
+R-squared: -1.7162
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.4714
+Mean Absolute Error: 3.0806
+Mean Squared Error: 15.4714
+R-squared: -2.4555
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.8555
+Mean Absolute Error: 3.1385
+Mean Squared Error: 15.8555
+R-squared: -2.5427
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.8509
+Mean Absolute Error: 3.1739
+Mean Squared Error: 16.8509
+R-squared: -1.7975
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.4543
+Mean Absolute Error: 3.1394
+Mean Squared Error: 16.4543
+R-squared: -1.5406
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 17.3081
+Mean Absolute Error: 3.1772
+Mean Squared Error: 17.3081
+R-squared: -1.5696
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 17.7659
+Mean Absolute Error: 3.2027
+Mean Squared Error: 17.7659
+R-squared: -1.5276
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2092
+Mean Absolute Error: 3.0950
+Mean Squared Error: 14.2092
+R-squared: -7.2236
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.2796
+Mean Absolute Error: 3.0962
+Mean Squared Error: 14.2796
+R-squared: -6.6202
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.2076
+Mean Absolute Error: 3.0712
+Mean Squared Error: 14.2076
+R-squared: -5.5385
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.7152
+Mean Absolute Error: 3.1231
+Mean Squared Error: 14.7152
+R-squared: -5.2965
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.8532
+Mean Absolute Error: 3.1241
+Mean Squared Error: 14.8532
+R-squared: -5.0000
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.3365
+Mean Absolute Error: 3.0530
+Mean Squared Error: 14.3365
+R-squared: -4.2314
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.7286
+Mean Absolute Error: 3.1157
+Mean Squared Error: 14.7286
+R-squared: -5.5246
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.5352
+Mean Absolute Error: 3.1251
+Mean Squared Error: 14.5352
+R-squared: -6.7283
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.4804
+Mean Absolute Error: 3.1544
+Mean Squared Error: 15.4804
+R-squared: -4.2368
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.1062
+Mean Absolute Error: 3.1233
+Mean Squared Error: 15.1062
+R-squared: -4.7898
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.6757
+Mean Absolute Error: 3.0965
+Mean Squared Error: 14.6757
+R-squared: -4.2458
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.1835
+Mean Absolute Error: 3.0499
+Mean Squared Error: 14.1835
+R-squared: -5.4446
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.4358
+Mean Absolute Error: 3.0615
+Mean Squared Error: 14.4358
+R-squared: -4.2275
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.3298
+Mean Absolute Error: 3.0345
+Mean Squared Error: 14.3298
+R-squared: -4.5507
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.8569
+Mean Absolute Error: 3.0530
+Mean Squared Error: 14.8569
+R-squared: -2.7939
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.9472
+Mean Absolute Error: 3.0762
+Mean Squared Error: 14.9472
+R-squared: -3.1895
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.1730
+Mean Absolute Error: 3.0704
+Mean Squared Error: 15.1730
+R-squared: -2.2594
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 14.9999
+Mean Absolute Error: 3.0503
+Mean Squared Error: 14.9999
+R-squared: -2.3708
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.1378
+Mean Absolute Error: 3.1068
+Mean Squared Error: 15.1379
+R-squared: -3.0748
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.6802
+Mean Absolute Error: 3.0679
+Mean Squared Error: 14.6802
+R-squared: -4.3461
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.6214
+Mean Absolute Error: 3.1233
+Mean Squared Error: 15.6214
+R-squared: -2.3048
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.7392
+Mean Absolute Error: 3.0628
+Mean Squared Error: 14.7392
+R-squared: -2.8734
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 17.9193
+Mean Absolute Error: 3.1591
+Mean Squared Error: 17.9193
+R-squared: -1.3676
+----- Model Configuration -----
+Number of neurons in LSTM layer: 32
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.8958
+Mean Absolute Error: 3.1738
+Mean Squared Error: 16.8958
+R-squared: -1.6153
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.9680
+Mean Absolute Error: 3.0377
+Mean Squared Error: 14.9680
+R-squared: -2.5834
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 14.8374
+Mean Absolute Error: 3.0605
+Mean Squared Error: 14.8374
+R-squared: -3.0746
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 16.1409
+Mean Absolute Error: 3.1057
+Mean Squared Error: 16.1409
+R-squared: -1.6700
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 15.9874
+Mean Absolute Error: 3.0882
+Mean Squared Error: 15.9874
+R-squared: -1.9377
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 15.9658
+Mean Absolute Error: 3.0522
+Mean Squared Error: 15.9658
+R-squared: -1.3106
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.3220
+Mean Absolute Error: 3.1106
+Mean Squared Error: 16.3220
+R-squared: -1.5335
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.8976
+Mean Absolute Error: 3.0890
+Mean Squared Error: 15.8976
+R-squared: -1.9161
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 41500
+----- Evaluation Metrics -----
+Loss: 15.4421
+Mean Absolute Error: 3.0665
+Mean Squared Error: 15.4421
+R-squared: -2.2224
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 17.6043
+Mean Absolute Error: 3.1774
+Mean Squared Error: 17.6043
+R-squared: -1.2622
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 20.7615
+Mean Absolute Error: 3.3096
+Mean Squared Error: 20.7615
+R-squared: -0.9842
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 18.8454
+Mean Absolute Error: 3.2308
+Mean Squared Error: 18.8454
+R-squared: -0.9745
+----- Model Configuration -----
+Number of neurons in LSTM layer: 64
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: relu, relu, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 124500
+----- Evaluation Metrics -----
+Loss: 16.2260
+Mean Absolute Error: 3.1128
+Mean Squared Error: 16.2260
+R-squared: -1.5569
+----- Model Configuration -----
+Number of neurons in LSTM layer: 16
+Number of hidden layers: 1
+Number of neurons in Dense layers: 8
+Activation functions: tanh, tanh, linear
+Learning rate: 0.0010000000474974513
+Batch size: None
+Epochs: 83000
+----- Evaluation Metrics -----
+Loss: 14.5948
+Mean Absolute Error: 3.1188
+Mean Squared Error: 14.5948
+R-squared: -6.7877

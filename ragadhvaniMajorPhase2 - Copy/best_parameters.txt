@@ -1,0 +1,6 @@
+Best Parameters:
+Dense_units: 8
+LSTM_units: 16
+activation: tanh
+epochs: 500
+optimizer: adam
